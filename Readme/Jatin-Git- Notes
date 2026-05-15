@@ -174,7 +174,7 @@ Example Workflow
 -->Using git fetch:
 
 git fetch origin
-git log HEAD..origin/main
+git log HEAD..origin/main --> to check the changes made in remote repo, and compare the difference with local repo
 → Lets you inspect new commits before merging.
 ================================================================
 -->Using git pull:
